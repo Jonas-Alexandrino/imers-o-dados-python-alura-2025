@@ -31,18 +31,14 @@ Este projeto tem como objetivo analisar salários de profissionais da área de d
 - **Pandas** para manipulação de dados  
 - **Matplotlib** e **Seaborn** para visualizações  
 - **Plotly** para dashboards interativos  
-- **Jupyter Notebook** para desenvolvimento e documentação
- 
----
- 
-## 📌 Próximos Passos
- 
-- Construir e publicar o dashboard interativo.  
-- Compartilhar os resultados com a comunidade e partes interessadas.  
- 
+- **Jupyter Notebook** e **Visual Studio Code**  para desenvolvimento e documentação
+
 ---
  
 ## 🔗 Publicações Relacionadas
  
-Etapa anterior do projeto no LinkedIn:  
+dash publicado no streamlit:  
+👉 [Clique aqui para acessar](https://imersao-dados-python-alura-jonas-alexandrino.streamlit.app/)
+
+Publicação do projeto no LinkedIn:  
 👉 [Clique aqui para acessar](https://www.linkedin.com/feed/update/urn:li:activity:7361181128914878464/)
